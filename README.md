@@ -168,20 +168,6 @@ Este é um programa educativo. Para um diagnóstico real de saúde, consulte um 
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar!
-
----
-
-## 🤝 Contribuições
-
-Quer melhorar este projeto? Faça um fork e envie um Pull Request!
-
-Dúvidas? Abra uma issue no repositório do GitHub!
-
----
-
 **Criado com ❤️ por M0rguinha**  
 **Data**: 2026-08-18  
 **Python**: 3.x
